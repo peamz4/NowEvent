@@ -12,35 +12,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NowEvent
-build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\NowEvent\NowEvent\NowEvent\
+build_property.ProjectDir = C:\Users\Admin\Desktop\NowEvent\NowEvent\NowEvent\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Admin/Documents/GitHub/NowEvent/NowEvent/NowEvent/App.xaml]
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Admin/Documents/GitHub/NowEvent/NowEvent/NowEvent/AppShell.xaml]
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Admin/Documents/GitHub/NowEvent/NowEvent/NowEvent/MainPage.xaml]
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Admin/Documents/GitHub/NowEvent/NowEvent/NowEvent/Resources/Styles/Colors.xaml]
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/PinPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.PinPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PinPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PinPage.xaml
+
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Admin/Documents/GitHub/NowEvent/NowEvent/NowEvent/Resources/Styles/Styles.xaml]
+[C:/Users/Admin/Desktop/NowEvent/NowEvent/NowEvent/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NowEvent.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

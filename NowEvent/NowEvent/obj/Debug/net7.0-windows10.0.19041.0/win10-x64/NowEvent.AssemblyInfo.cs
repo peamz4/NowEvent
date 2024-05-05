@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NowEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0606454defcbc12a64db1a33b27ea9a2fc4b4f91")]
 [assembly: System.Reflection.AssemblyProductAttribute("NowEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NowEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
